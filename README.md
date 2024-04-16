@@ -1,18 +1,4 @@
-![image](https://github.com/developerrahulofficial/locationGit/assets/83329806/1baac3e6-a638-473f-8714-d131a005d384)
 
-
-<h1 align="center">
-  LocationGit - v2
-</h1>
-<p align="center">
-  The second iteration of <a href="https://location-git-jb69.vercel.app/" target="_blank">LocationGit</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
-</p>
-<p align="center">
- 
-![](https://raw.githubusercontent.com/sheeehy/Geo-Git-v2/main/src/assets/GeogitHero.JPG)
-
-
-<br>
 
 ## 🌎 About LocationGit
 
