@@ -75,7 +75,7 @@ function About() {
               </div>
             </div>
             <div className="flex justify-center">
-  <a href="https://www.instagram.com/developer_rahul_/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/game_changer.09/" target="_blank" rel="noopener noreferrer">
    <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"
       alt="Instagram"
@@ -87,8 +87,8 @@ function About() {
 </div>
           </div>
 
-          <a href="https://github.com/developerrahulofficial" target="_blank" rel="noopener noreferrer" className="text-white font-Hublot leading-5 tracking-wider pb-2 jack-sheehy">
-            Developer Rahul ❤️ :) <br />
+          <a href="https://github.com/codewithEvilxd" target="_blank" rel="noopener noreferrer" className="text-white font-Hublot leading-5 tracking-wider pb-2 jack-sheehy">
+            Evilxd ❤️ :) <br />
             ©2024
           </a>
         </div>
